@@ -18,7 +18,7 @@ agenova work show <request-ref>
 agenova logout
 ```
 
-[New member guide and example](https://github.com/wunderforge/agenova/blob/19f22c1/docs/member-quickstart.zh-CN.md).
+[New member guide and example](https://github.com/wunderforge/agenova/blob/6e175ac/docs/member-quickstart.zh-CN.md).
 
 ## Updates
 
