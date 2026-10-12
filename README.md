@@ -18,7 +18,7 @@ agenova work show <request-ref>
 agenova logout
 ```
 
-[New member guide and example](https://github.com/wunderforge/agenova/blob/6e175ac/docs/member-quickstart.zh-CN.md).
+[New member guide and example](https://github.com/wunderforge/agenova/blob/d566011/docs/member-quickstart.zh-CN.md).
 
 ## Updates
 
@@ -36,14 +36,3 @@ locally verified; Intel installation is not yet verified.
 macOS may ask for Keychain permission. Choose Always Allow only for the Agenova
 executable you installed. Upgrades or a locked keychain may require consent again.
 This repository contains no tokens, passwords or cloud credentials.
-
-If you previously installed the local `agenova/preview` tap, switch with:
-
-```bash
-brew uninstall agenova/preview/agenova
-brew untap agenova/preview
-brew install Leo1piece/agenova/agenova
-```
-
-Uninstalling the executable does not intentionally remove application credentials
-or saved server configuration. You may still need to sign in again.
